@@ -1,0 +1,9 @@
+C:\Users\luca-\desktop\2°Semestre\Navarro-2°sem-engsoft\Cods\BlazorAplication\Shared\bin\Debug\netstandard2.1\BlazorAplication.Shared.deps.json
+C:\Users\luca-\desktop\2°Semestre\Navarro-2°sem-engsoft\Cods\BlazorAplication\Shared\bin\Debug\netstandard2.1\BlazorAplication.Shared.dll
+C:\Users\luca-\desktop\2°Semestre\Navarro-2°sem-engsoft\Cods\BlazorAplication\Shared\bin\Debug\netstandard2.1\BlazorAplication.Shared.pdb
+C:\Users\luca-\desktop\2°Semestre\Navarro-2°sem-engsoft\Cods\BlazorAplication\Shared\obj\Debug\netstandard2.1\BlazorAplication.Shared.csprojAssemblyReference.cache
+C:\Users\luca-\desktop\2°Semestre\Navarro-2°sem-engsoft\Cods\BlazorAplication\Shared\obj\Debug\netstandard2.1\BlazorAplication.Shared.AssemblyInfoInputs.cache
+C:\Users\luca-\desktop\2°Semestre\Navarro-2°sem-engsoft\Cods\BlazorAplication\Shared\obj\Debug\netstandard2.1\BlazorAplication.Shared.AssemblyInfo.cs
+C:\Users\luca-\desktop\2°Semestre\Navarro-2°sem-engsoft\Cods\BlazorAplication\Shared\obj\Debug\netstandard2.1\BlazorAplication.Shared.csproj.CoreCompileInputs.cache
+C:\Users\luca-\desktop\2°Semestre\Navarro-2°sem-engsoft\Cods\BlazorAplication\Shared\obj\Debug\netstandard2.1\BlazorAplication.Shared.dll
+C:\Users\luca-\desktop\2°Semestre\Navarro-2°sem-engsoft\Cods\BlazorAplication\Shared\obj\Debug\netstandard2.1\BlazorAplication.Shared.pdb
