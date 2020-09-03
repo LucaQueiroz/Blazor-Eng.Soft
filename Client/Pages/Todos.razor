@@ -31,7 +31,7 @@
 <Table Bordered="true" Narrow="true">
         <TableBody>
             <TableRow>  
-                    <TableRowCell Style="width:10%;" ><Check TValue="bool" Checked="@item.Feito" >Feito</Check></TableRowCell>  
+                    <TableRowCell Style="width:10%;" ><Check TValue="bool" CheckedChanged="@((e) => finalizar(item))" >Feito</Check></TableRowCell>  
                     <TableRowCell Style="width:40%;">@item.Titulo </TableRowCell>               
                     <TableRowCell Style="width:25%;"> @item.Inicio</TableRowCell>     
                     <TableRowCell Style="width:25%;"> @item.Fim </TableRowCell>         
@@ -50,9 +50,16 @@
         newTodo = "";
     }  
 
+    
+    private void finalizar(todo t){
+       t.Fim = DateTime.Now;
+    }
+
     protected override void OnInitialized()
     {
         listT = new List<todo>();
     }
+
+
 }
  
